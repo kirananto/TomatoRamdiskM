@@ -1,0 +1,29 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.usb.id.charge=F006
+ro.usb.id.mtp=F003
+ro.usb.id.mtp_adb=9039
+ro.usb.id.ptp=904D
+ro.usb.id.ptp_adb=904E
+ro.usb.id.ums=F000
+ro.usb.id.ums_adb=9015
+ro.usb.vid=05c6
+ro.secure=0
+ro.debuggable=1
+ro.adb.secure=0
+ro.allow.mock.location=0
+ro.zygote=zygote64_32
+dalvik.vm.image-dex2oat-Xms=64m
+dalvik.vm.image-dex2oat-Xmx=64m
+dalvik.vm.dex2oat-Xms=64m
+dalvik.vm.dex2oat-Xmx=512m
+ro.dalvik.vm.native.bridge=0
+debug.atrace.tags.enableflags=0
+persist.sys.usb.config=mtp,adb
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Mon Nov 9 16:10:51 CET 2015
+ro.bootimage.build.date.utc=1447081851
+ro.bootimage.build.fingerprint=YU/YUREKA/YUREKA:6.0/MDB08M/dfe8253f76:userdebug/test-keys
